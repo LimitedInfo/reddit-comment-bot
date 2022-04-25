@@ -1,4 +1,10 @@
-username = "RedditUsername"
+# login specifications
+username = "username"
 password = "password"
-client_id = "idGoesHere"
-client_secret = "secretGoesHere"
+client_id = "client-id"
+client_secret = "client-secret"
+
+# bot comment logic
+subreddit = 'test'
+comment_reply = "your reply here"
+search_strings = []
